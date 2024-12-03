@@ -1,3 +1,14 @@
+"""
+********************************************************************************
+* Project Name:  BlackJack Game
+* Description:   This project is blackjack game.\
+* Author:        ziqkimi308
+* Created:       2024-12-03
+* Updated:       2024-12-03
+* Version:       1.0
+********************************************************************************
+"""
+
 import random
 from art import logo
 from replit import clear # type: ignore
