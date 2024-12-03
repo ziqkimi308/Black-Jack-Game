@@ -1,7 +1,7 @@
 """
 ********************************************************************************
 * Project Name:  BlackJack Game
-* Description:   This project is blackjack game.\
+* Description:   This project is blackjack game.
 * Author:        ziqkimi308
 * Created:       2024-12-03
 * Updated:       2024-12-03
