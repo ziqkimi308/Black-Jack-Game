@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Python Terminal Blackjack Game
+# Blackjack Game
 This project is a simple yet engaging Blackjack game implemented in Python. The game simulates a card game where you compete against the computer to get a hand value as close to 21 as possible without exceeding it. With ASCII art for visuals and intuitive gameplay, this game is perfect for learning or casual fun.
 
 ---
